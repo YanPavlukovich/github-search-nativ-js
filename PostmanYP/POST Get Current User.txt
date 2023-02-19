@@ -1,0 +1,1 @@
+{"user":{"username":"yanlight","email":"mrak022@yandex.ru","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZjFlODg5NmY4YmVlMWIwMDU1NTQzYyIsInVzZXJuYW1lIjoieWFubGlnaHQiLCJleHAiOjE2ODE5ODczMjYsImlhdCI6MTY3NjgwMzMyNn0.n0RQItfhe1XeOTAZ2QMQjl_EZpeY74wsywFq_k0NOSw"}}
